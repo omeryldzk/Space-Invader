@@ -4,8 +4,6 @@
 
 #include "Player.h"
 #include "Alien.h" 
-#include "Bullet.h"
-#include "Constants.h"
 #include <vector>
 
 

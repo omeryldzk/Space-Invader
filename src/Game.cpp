@@ -1,9 +1,4 @@
-#include "Player.h"
-#include "Alien.h" 
-#include "Bullet.h"
 #include "Game.h"
-#include "Position.h"
-#include "Constants.h"
 #include <vector>
 #include <string>   
 #include <iostream>
